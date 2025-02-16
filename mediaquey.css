@@ -1,0 +1,114 @@
+@media screen and (max-width: 1067px) {
+    .image img {
+        max-width: 200px;
+    }
+
+}
+
+@media screen and (max-width: 880px) {
+    .personal-details {
+        float: none;
+    }
+    .box-container {
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+
+    .about-me-container {
+        margin: 40px auto;
+    }
+    .container1 {
+        margin: 35px auto;
+    
+    }
+    .download-cv-btn1 {
+        margin-left: 35%;
+    }
+    .photo {
+        display: none;
+    }
+    .box {
+        width: 95%;
+    }
+    .welcome-container {
+        margin: 15px auto;
+    }
+}
+
+
+@media (max-width: 768px) { 
+ 
+    .container1 {
+        margin: 0% auto;
+    }
+
+}
+
+
+
+@media (max-width: 673px) {  
+    .image img {
+        display: none;
+    }
+    .contact-image {
+        display: none;
+    }
+ 
+}
+
+
+@media (max-width: 602px) {   
+  
+
+
+}
+
+    
+@media (max-width: 468px) {   
+
+.hereme {
+    margin: 20px 0px 0px 0vw;
+    padding: 15px 15px;
+    
+}
+.mywork {
+    padding: 15px 15px;
+}
+details p {
+    font-size: 0.8rem;
+}
+
+}
+
+
+@media (max-width: 395px)  {
+
+    details p {
+        font-size: 0.4rem;
+    }
+
+
+}
+
+/* @media (max-width: 361px) {   
+    details p {
+        font-size: 0.5rem;
+    } 
+} */
+
+
+  @media (max-width: 342px) { 
+    .mywork {
+        margin: 20px 0px;
+        font-size: 18px;
+        padding: 15px 45px;
+    }
+    .hereme {
+        margin: 10px 0px;
+        font-size: 18px;
+        padding: 15px 45px;
+    }
+  
+
+
+   }
